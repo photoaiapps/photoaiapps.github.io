@@ -400,3 +400,6 @@ xandr.com,13799,RESELLER
 # PangleGlobal
 pangleglobal.com,54852,DIRECT
 pubmatic.com,161490,RESELLER,5d62403b186f2ace
+
+# Admob
+google.com,pub-4231262271105435,DIRECT,f08c47fec0942fa0
