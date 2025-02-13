@@ -1,3 +1,5 @@
+# Updated at 2025/02/13 17:43:37
+
 # Admob
 google.com,pub-1183913211722093,DIRECT,f08c47fec0942fa0
 
@@ -122,6 +124,16 @@ rubiconproject.com,26192,RESELLER,0bfd66d529a55807
 video.unrulymedia.com,322585001,RESELLER
 adiiix.com,3de5db9,RESELLER
 fromthetop.io,65529,RESELLER
+freewheel.tv,1599106,RESELLER
+freewheel.tv,1599109,RESELLER
+feeltapmedia.com,d09bf41544a3365a46c9077ebb5e35c36512,RESELLER
+google.com,pub-5519830896693885,RESELLER,f08c47fec0942fa0
+google.com,pub-7343713940473418,RESELLER,f08c47fec0942fa0
+rubiconproject.com,15044,RESELLER,0bfd66d529a55807
+video.unrulymedia.com,557688749,RESELLER
+rubiconproject.com,15268,RESELLER,0bfd66d529a55807
+pubmatic.com,159277,RESELLER
+mindtos.com,mt43c875578ca85337,RESELLER
 
 # Liftoff
 vungle.com,5dc9534f674ec70017d0306a,DIRECT,c107d686becd2d77
