@@ -1,10 +1,14 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "2287MF946H.com.photolabs.enhancer.retouch",
-        "paths": ["/store/remove/*"]
+        "appIDs": ["2287MF946H.com.photolabs.enhancer.retouch"],
+        "components": [
+          {
+            "/": "/store/remove/*",
+            "comment": "Matches any URL whose path starts with /store/remove/"
+          }
+        ]
       }
     ]
   }
