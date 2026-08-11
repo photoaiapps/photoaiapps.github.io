@@ -7,7 +7,11 @@
           {
             "/": "/store/remove/*",
             "comment": "Matches any URL whose path starts with /store/remove/"
-          }
+          },
+          {
+            "/": "/stripe-checkout/*",
+            "comment": "Stripe Checkout"
+          },
         ]
       }
     ]
